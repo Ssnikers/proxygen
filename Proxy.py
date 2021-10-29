@@ -1,0 +1,10 @@
+print("(_____ \             ")       
+print(" _____) )___ ___ _   _ _   _ ")
+print("|  ____/ ___) _ ( \ / ) | | |")
+print("| |   | |  | |_| ) X (| |_| |")
+print("|_|   |_|   \___(_/ \_)\__  |")
+print("                      (____/ ")
+
+name = input("Name of proxy: ")
+name2 = input("Ip: ")
+print("Create " + str(name) + " on ip " + str(name2))
